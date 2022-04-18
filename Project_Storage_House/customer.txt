@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap");
+
+      * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+      }
+
+      body {
+        font-family: "Raleway", sans-serif;
+        background-color: #d8dada;
+        font-size: 19px;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 3%;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+      header {
+        width: 40%;
+      }
+
+      #logo {
+        max-width: 120px;
+        margin: 3% 0 3% 3%;
+        float: left;
+      }
+
+      #wrapper {
+        background-color: #f0f6fb;
+      }
+
+      #social {
+        float: right;
+        margin: 3% 2% 4% 3%;
+        list-style-type: none;
+      }
+
+      #social > li {
+        display: inline;
+      }
+
+      #social > li > a > img {
+        max-width: 35px;
+      }
+
+      h1,
+      p {
+        margin: 3%;
+      }
+      .btn {
+        float: right;
+        margin: 0 2% 4% 0;
+        background-color: #303840;
+        color: #f6faff;
+        text-decoration: none;
+        font-weight: 800;
+        padding: 8px 12px;
+        border-radius: 8px;
+        letter-spacing: 2px;
+      }
+
+      hr {
+        height: 1px;
+        background-color: #303840;
+        clear: both;
+        width: 96%;
+        margin: auto;
+      }
+
+      #contact {
+        text-align: center;
+        padding-bottom: 3%;
+        line-height: 16px;
+        font-size: 12px;
+        color: #303840;
+      }
+      .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+      #logo{
+        height: 30px ;width: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <div id="logo">
+    
+        </div>
+        <div class="col-8 offset-2">
+          <div class="row">
+          <ul id="social">
+            <li>
+              <a href="https://www.facebook.com/rohit.kakde.568\" target="_blank"
+                ><img id="logo"
+                  src="https://mdbgo.io/dawidadach/responsiveemail/img/fb-color.png"
+                  alt=""
+              /></a>
+            </li>
+            <li>
+              <a href="https://instagram.com/clickersmobile?utm_medium=copy_link\" target="_blank"
+                ><img id="logo"
+                  src="https://mdbgo.io/dawidadach/responsiveemail/img/in-color.png"
+                  alt=""
+              /></a>
+            </li>
+            <li>
+              <a href="https://mobile.twitter.com/ImDipakkalekar" target="_blank"
+                ><img id="logo"
+                  src="https://mdbgo.io/dawidadach/responsiveemail/img/tw-color.png"
+                  alt=""
+              /></a>
+      
+            </li>
+         
+            <li>
+              <a href="https://www.linkedin.com/in/dipak-kalekar-8b8572128/\" target="_blank"
+                ><img id="logo"
+                  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"
+                  alt=""
+              /></a>
+              
+            </li>
+
+             <li>
+              <a href="https://www.youtube.com/c/ArtistShikhaSharma\" target="_blank"
+                ><img id="logo"
+                  src="https://mdbgo.io/dawidadach/responsiveemail/img/yt-color.png"
+                  alt=""
+              /></a>
+            </li>
+          </ul>
+        </div>
+        </div>
+      </header>
+      <div id="banner">
+        <img style="top: auto; height: 400px; width: 100%;" src="https://www.clipartkey.com/mpngs/m/108-1080906_art-painting-logo-png.png">
+      </div>
+      <div class="one-col">
+         <h1><center><b>WELCOME TO CASTLE ART</b></center></h1>
+        <p>
+        Step1:-Go to our Website www.CastleArt.com <br>
+ Step2:-Register on website (If already registered then Signin) <br>
+step3:-Upload your Beautiful paintings and handicraft product  <br>
+Step4:-provide all the details about painting including price.<br>
+Step5:-now you will get the confirmation email from our team regarding your project accptence <br>
+ Step6:-Once selected, you can proceed with the Payment page<br>
+  Step6:-Once your product is selected by our team,our shipping team will pickup the same product from your loaction and the payment will be done to your bank account.<br>
+</p>
+
+        <hr />
+
+        <footer>
+          <p id="contact"><b>
+            contact@ dipakkalekar44@gmail.com  PhoneNo:+91-7219737065  &emsp;
+             All Rights Reserved &emsp; Terms and Conditions Apply*</b>
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
